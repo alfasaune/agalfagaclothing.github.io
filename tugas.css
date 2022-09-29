@@ -148,3 +148,7 @@
   text-align: center;
   color: #000000;
 }
+
+.mb-3 {
+  border: #000000 solid;
+}
